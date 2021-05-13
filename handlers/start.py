@@ -34,7 +34,7 @@ async def start(_, message: Message):
                         "Group Support", url="https://t.me/dvgrup"
                     ),
                     InlineKeyboardButton(
-                        "Channel Cerita Isi Kepala", url="https://t.me/tempatceritabersamamu"
+                        "Channel Kita", url="https://t.me/bandunglawak"
                     )
                 ]
             ]
